@@ -1,0 +1,9 @@
+2.1 - Usarei listas encadeadas
+
+2.2 - Usaria uma lista encadeada 
+
+2.3 - Usaria um array
+
+2.4 - A desvantagem do array no momento de inserção é que se não houver espaços livres e adjacentes neste momento, todo o array terá que ser realocado
+
+2.5 - Para fazer inserções e deleções é mais rápida    
